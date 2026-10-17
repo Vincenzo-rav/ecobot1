@@ -72,4 +72,4 @@ async def risposta_tre(ctx, commenti, punti):
             await ctx.send("Mi dispiace, non hai totalizzato il massimo dei voti.")
 
 
-bot1.run("MTU1ODQ5MjM0MDYyNzQ0Mzc3Mg.GnRuoN.KZkCJ1HHQc38xWnJjuK7uMYw0X1dN_r9f0D2Yg")
+bot1.run("ecobot")
